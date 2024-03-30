@@ -11,7 +11,7 @@ function App() {
   return (
     <>
       <Navegador />
-      <Carrousel />
+      <Carrousel className="styleCarusel" />
       <Container className="mt-4">
         <Row>
             <Novedades />

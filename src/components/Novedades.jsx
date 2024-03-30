@@ -42,7 +42,6 @@ const Novedades = () => {
             </>
           );
         })}
-        ;
       </CardGroup>
     </>
   );
